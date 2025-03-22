@@ -11,6 +11,7 @@
 ### 🛠️ **About Me**
 - 🌟 **`Coding` `Open Source` `Cybersecurity`**
 - 🚀 **A student majored in ecnomics. Enjoy technologies. Pursuing passion.**
+- 🎯 **“Der Geist der Unabhängigkeit, der Gedanke der Freiheit.”** 🚀✨
 
 ### 🚀 **Tech Stack**
 <p align="center">
@@ -21,11 +22,6 @@
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=demingry&show_icons=true&theme=radical" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=demingry&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=demingry&show_icons=true&theme=nord" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=demingry&theme=nord" />
 </p>
-
----
-
-🎯 **“Der Geist der Unabhängigkeit, der Gedanke der Freiheit.”** 🚀✨
-
