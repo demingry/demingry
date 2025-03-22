@@ -1,18 +1,9 @@
-![](https://github.com/demingry/demingry/blob/master/header.png)
+![](https://github.com/demingry/demingry/blob/main/header.png)
 
 <h1 align="center">🚀 Welcome to My GitHub! 😎</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F713DF&center=true&vCenter=true&width=440&lines=Hello%2C+World!;Welcome+to+My+Profile!;Coding+My+Dreams...;Enjoy+Exploring+My+Repos!+%F0%9F%91%8D" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <a href="https://github.com/demingry">
-    <img src="https://komarev.com/ghpvc/?username=demingry&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile Views">
-  </a>
-  <a href="https://github.com/demingry?tab=followers">
-    <img src="https://img.shields.io/github/followers/demingry?color=blue&label=Followers&style=flat-square" alt="GitHub Followers">
-  </a>
 </p>
 
 ---
